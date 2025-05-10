@@ -1,7 +1,7 @@
 # Heart Attack Analysis Project
 
 ## Author Information
-- Name: 2024mt12084@wilp.bits-pilani.ac.in
+- Name: Pankaj Lal
 - BITS ID: 2024mt12084@wilp.bits-pilani.ac.in
 
 ## Project Overview

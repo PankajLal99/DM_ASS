@@ -1,5 +1,5 @@
 # Heart Attack Analysis - Comprehensive Report
-**Author:** 2024mt12084@wilp.bits-pilani.ac.in  
+**Author:** Pankaj Lal 
 **BITS ID:** 2024mt12084@wilp.bits-pilani.ac.in
 
 ## Table of Contents
